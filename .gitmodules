@@ -1,0 +1,6 @@
+[submodule "gbz-arduino-keyboard-battmon"]
+	path = gbz-arduino-keyboard-battmon
+	url = git@github.com:docteurzoidberg/gbz-arduino-keyboard-battmon.git
+[submodule "gbz-retropie-batterymonitor"]
+	path = gbz-retropie-batterymonitor
+	url = git@github.com:docteurzoidberg/gbz-retropie-batterymonitor.git
