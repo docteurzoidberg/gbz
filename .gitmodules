@@ -4,3 +4,9 @@
 [submodule "gbz-retropie-batterymonitor"]
 	path = gbz-retropie-batterymonitor
 	url = git@github.com:docteurzoidberg/gbz-retropie-batterymonitor.git
+[submodule "3rd/leonardoUploader"]
+	path = 3rd/leonardoUploader
+	url = https://github.com/vanbwodonk/leonardoUploader.git
+[submodule "3rd/libserial"]
+	path = 3rd/libserial
+	url = https://github.com/crayzeewulf/libserial
