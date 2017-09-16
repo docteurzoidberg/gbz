@@ -10,3 +10,6 @@
 [submodule "3rd/libserial"]
 	path = 3rd/libserial
 	url = https://github.com/crayzeewulf/libserial
+[submodule "3rd/Arduino-Makefile"]
+	path = 3rd/Arduino-Makefile
+	url = https://github.com/sudar/Arduino-Makefile.git
